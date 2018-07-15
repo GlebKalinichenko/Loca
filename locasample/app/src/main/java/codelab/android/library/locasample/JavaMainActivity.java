@@ -5,16 +5,11 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import org.jetbrains.annotations.NotNull;
-
 import codelab.android.library.loca.delegate.LocationDelegate;
 import codelab.android.library.loca.entity.GeoEntity;
 import codelab.android.library.loca.entity.LocationConfiguration;
+import codelab.android.library.loca.jvmannotation.LocationSubscriberInstance;
 import codelab.android.library.loca.subscriber.LocationSubscriber;
-import codelab.android.locationbuilder.library.LocationSubscriber;
-import codelab.android.locationbuilder.library.delegate.LocationDelegate;
-import codelab.android.locationbuilder.library.entity.GeoEntity;
-import codelab.android.locationbuilder.library.entity.LocationConfiguration;
-import codelab.android.locationbuilder.library.entity.LocationSubscriberInstance;
 
 public class JavaMainActivity extends AppCompatActivity  {
 
