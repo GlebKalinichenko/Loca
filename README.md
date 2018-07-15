@@ -21,7 +21,7 @@ allprojects {
 
 ```gradle
 dependencies {
-    implementation 'com.github.GlebKalinichenko:LocationBuilder:0.1.3'
+    implementation 'com.github.GlebKalinichenko:LocationBuilder:0.1.1'
 }
 ```
 
