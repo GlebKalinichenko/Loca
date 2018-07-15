@@ -21,7 +21,7 @@ allprojects {
 
 ```gradle
 dependencies {
-	    implementation 'com.github.GlebKalinichenko:loca:0.1.1'
+    implementation 'com.github.GlebKalinichenko:loca:0.1.1'
 }
 ```
 
