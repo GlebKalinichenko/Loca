@@ -121,5 +121,6 @@ override fun onStart() {
 
 ```
 
-[![](https://jitpack.io/v/GlebKalinichenko/LocationBuilder.svg)](https://jitpack.io/#GlebKalinichenko/LocationBuilder)
+[![](https://jitpack.io/v/GlebKalinichenko/loca.svg)](https://jitpack.io/#GlebKalinichenko/loca)
+
 
